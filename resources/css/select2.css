@@ -1,0 +1,20 @@
+.select2 .select2-selection.select2-selection--single {
+    border: 0;
+    height: auto;
+}
+
+.select2 .select2-selection__rendered {
+    padding-left: 11px !important;
+    padding-top: 5px !important;
+}
+
+.select2 .select2-selection--single .select2-selection__arrow {
+    height: auto;
+    top: 20px;
+    right: 5px;
+}
+
+.select2-container--default .select2-results__option--highlighted.select2-results__option--selectable {
+    background-color: hsl(217, 71%, 53%);
+    color: white;
+}

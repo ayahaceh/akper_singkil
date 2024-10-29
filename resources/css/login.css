@@ -1,0 +1,61 @@
+/* html,
+body {
+    font-family: 'Questrial', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+} */
+
+.auth .hero.is-success {
+    background: #F2F6FA;
+}
+
+.auth .hero .nav,
+.auth .hero.is-success .nav {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.auth .box {
+    margin-top: 5rem;
+}
+
+.auth .avatar {
+    margin-top: -70px;
+    padding-bottom: 20px;
+}
+
+.auth .avatar img {
+    padding: 5px;
+    background: #fff;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 2px 3px rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .1);
+    box-shadow: 0 2px 3px rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .1);
+}
+
+.auth input {
+    font-weight: 300;
+}
+
+.auth p {
+    font-weight: 700;
+}
+
+.auth p.subtitle {
+    padding-top: 1rem;
+}
+
+.auth .login-hr {
+    border-bottom: 1px solid black !important;
+}
+
+.auth .has-text-black {
+    color: black;
+}
+
+.auth .field {
+    padding-bottom: 10px;
+}
+
+.auth .fa {
+    margin-left: 5px;
+}

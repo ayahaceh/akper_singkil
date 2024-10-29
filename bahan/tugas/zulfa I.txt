@@ -1,0 +1,9 @@
+
+1.	Paket untuk dipelajari, ambil yg diperlukan saja :
+	https://www.cloudways.com/blog/best-laravel-packages
+
+2.	Instal Paket Seo yang sederhana saja, dan ga bikin ribet :
+	https://laravel-news.com/laravel-seo
+
+3.	Instal Paket Slug untuk url 
+	https://codebrisk.com/blog/how-to-easily-generate-slugs-for-eloquent-models-in-laravel

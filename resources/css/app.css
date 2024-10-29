@@ -1,0 +1,40 @@
+/* @import "./admin.css";
+@import "./select2.css";
+@import "./login.css";
+@import "./modal.css"; */
+
+/* Bulma Extension */
+/* @import "./extension/bulma-pageloader.css";
+@import "./extension/bulma-badge.css";
+@import "./extension/bulma-tooltip.css";
+@import "./extension/bulma-list.css"; */
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+.ql-editor {
+    min-height: 15rem;
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .img-md-cover {
+        height: 500px;
+        object-fit: cover;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
